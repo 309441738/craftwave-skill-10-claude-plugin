@@ -1,0 +1,18 @@
+{
+  "name": "craftwave-skill-10-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "浪漫邮轮之旅 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "craftwave-skill-10",
+      "source": "./plugins/craftwave-skill-10",
+      "description": "为情侣和新婚夫妇提供的浪漫邮轮选择，适合在特别的日子里享受浪漫与美好。",
+      "version": "0.1.0"
+    }
+  ]
+}
